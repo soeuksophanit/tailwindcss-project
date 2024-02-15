@@ -8,4 +8,5 @@
 
 - ## HTML
 - ## CSS
+- ## Vite DevTools - [[document]](https://vitejs.dev/guide/)
 - ## TailwindCSS - [[document]](https://tailwindcss.com/docs/installation)
